@@ -15,7 +15,7 @@ Unlike asteriods and bullets, I used basic trigonometry to inscribe a triangle i
 I used my up/down arrow keys to make the ship to accelerate and decelerate and left/right to change the orientation of the ship by 15 degrees, using trigonometry, with each press.
 
 ## Collision
-Two objects detect collision by calculating the distance between their center points. I use the distance formula where x<sub>1</sup> and y<sub>1</sub> is the x and y coordinates of the first object and x<sub>2</sup> and y<sub>2</sub> is the x and y coordinates of the second object.
+Two objects detect collision by calculating the distance between their center points. I use the distance formula where x<sub>1</sub> and y<sub>1</sub> is the x and y coordinates of the first object and x<sub>2</sup> and y<sub>2</sub> is the x and y coordinates of the second object.
 
 # Future Features
 
